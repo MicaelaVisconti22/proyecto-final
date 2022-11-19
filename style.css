@@ -2,4 +2,10 @@
     padding: 0;
 }
 
-  
+  .nav-link {
+    
+        color: black;
+        text-transform: uppercase;
+        text-decoration: none;
+      
+  }
