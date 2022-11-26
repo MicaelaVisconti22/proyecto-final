@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "compile:sass":"sass --watch scss/style.scss css/style.css"
-
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,8 @@
     "url": "https://github.com/MicaelaVisconti22/proyecto-final/issues"
   },
   "homepage": "https://github.com/MicaelaVisconti22/proyecto-final#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
