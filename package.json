@@ -18,5 +18,7 @@
   "homepage": "https://github.com/MicaelaVisconti22/proyecto-final#readme",
   "dependencies": {
     "bootstrap": "^5.2.3"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
