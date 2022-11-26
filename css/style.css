@@ -1,7 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 1 | @import "globals";
+ *   |         ^^^^^^^^^
+ *   '
+ *   scss\style.scss 1:9  root stylesheet */
 
-/*# sourceMappingURL=style.css.map */
+
