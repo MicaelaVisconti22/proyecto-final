@@ -16,7 +16,6 @@
     "url": "https://github.com/MicaelaVisconti22/proyecto-final/issues"
   },
   "homepage": "https://github.com/MicaelaVisconti22/proyecto-final#readme",
-  "description": "",
   "dependencies": {
     "bootstrap": "^5.2.3"
   }
